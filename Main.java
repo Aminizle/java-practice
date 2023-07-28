@@ -10,8 +10,9 @@ public class Main {
         x=y;
         y=temp;
 
-        System.out.println(x);
-        System.out.println(y);
+        System.out.println("the value of x is: "+x);
+        System.out.println("the value of y is: "+y);
+   
     }
     
 }
